@@ -1,4 +1,11 @@
-# CRUP App
+# CRUD App
 
 - Create Read Update Delete
-# React-Crud-App
+
+## What I used in this project
+
+- HTML, CSS and JS
+
+## Screen
+
+![](screen.gif)
